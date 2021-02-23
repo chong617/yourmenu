@@ -61,7 +61,7 @@ class Header extends React.Component {
             <NavbarToggler onClick={this.toggleNav} />
             <NavbarBrand className=' mr-auto' href='/'>
               <img
-                src='assets/images/logo.png'
+                src='/yourmenu/assets/images/logo.png'
                 height='30'
                 width='41'
                 alt='Ristorante Con Fusion'
