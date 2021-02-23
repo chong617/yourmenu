@@ -32,7 +32,7 @@ export const LEADERS = [
   {
     id: 3,
     name: "Ada Wang",
-    image: "/assets/images/IMG_1425.jpeg",
+    image: "/yourmenu/assets/images/IMG_1425.jpeg",
     designation: "Executive Chef",
     abbr: "EC",
     featured: true,
