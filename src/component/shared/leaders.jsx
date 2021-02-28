@@ -37,6 +37,6 @@ export const LEADERS = [
     abbr: "EC",
     featured: true,
     description:
-      "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Chinese-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit ！ Hallelujah! 加油 ！",
+      "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, she specializes in creating mouthwatering Chinese-Italian fusion experiences. She says, Put together the cuisines from the two craziest cultures, and you get a winning hit ！ Hallelujah! 加油 ！",
   },
 ];
